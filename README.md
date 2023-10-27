@@ -1,6 +1,6 @@
 # SQL
 
-# Database of hairdressers
+# Hair Salons Database
 
 ### December 2021 - December 2021
 
